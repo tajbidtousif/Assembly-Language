@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .data
-m db "I'm Tousif$"
+m db "I am Tousif$"
 
 .code
 
