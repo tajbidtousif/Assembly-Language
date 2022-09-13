@@ -28,3 +28,8 @@ mian proc
     mov ah,2
     mov dl,mes1
     int 21h   
+exit
+    mov ah,4ch
+    int 21h
+    main endp
+end main
